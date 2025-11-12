@@ -11,4 +11,7 @@ int main(void)
     printf(add(17,8));    
     printf("hello main!\r\n");
     printf(add(9,10));
+
+    printf("hello main!\r\n");
+    printf(add(11,12));
 }
