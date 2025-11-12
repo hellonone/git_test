@@ -4,5 +4,7 @@
 int main(void)
 {
     printf("hello main!\r\n");
-    printf(add(1, 2));
+    printf(add(3,4 ));
+    printf("hello main!\r\n");
+    printf(add(5,6));
 }
