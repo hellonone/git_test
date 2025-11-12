@@ -8,5 +8,7 @@ int main(void)
     printf("hello main!\r\n");
     printf(add(5,6));
     printf("hello main!\r\n");
-    printf(add(17,18));
+    printf(add(17,8));    
+    printf("hello main!\r\n");
+    printf(add(9,10));
 }
