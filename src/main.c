@@ -10,7 +10,7 @@ int main(void)
     printf("hello main!\r\n");
     printf(add(17,8));    
     printf("hello main!\r\n");
-    printf(add(9,10));
+    printf(add(19,110));
 
     printf("hello main!\r\n");
     printf(add(11,12));
