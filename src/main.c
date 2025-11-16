@@ -18,6 +18,6 @@ int main(void)
     printf("hello main branches!\r\n");
     printf(add(13,14));   
 
-     printf("hello main branches!\r\n");
-    printf(add(15,16));    
+    printf("hello test branches!\r\n");
+    printf(add(25,26));
 }
